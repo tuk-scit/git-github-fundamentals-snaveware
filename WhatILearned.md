@@ -10,3 +10,5 @@
 ## Areas for Improvement
 - I would love to know more about the github community. 
 - I also read somewhere about github copilot. I would love to know how that's going. 
+
+## #HavingFun
